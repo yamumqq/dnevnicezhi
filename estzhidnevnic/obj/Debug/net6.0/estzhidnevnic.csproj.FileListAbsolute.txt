@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\estzhidnevnic\estzhidnevnic\bin\Debug\net6.0\estzhidnevnic.exe
+C:\Users\admin\source\repos\estzhidnevnic\estzhidnevnic\bin\Debug\net6.0\estzhidnevnic.deps.json
+C:\Users\admin\source\repos\estzhidnevnic\estzhidnevnic\bin\Debug\net6.0\estzhidnevnic.runtimeconfig.json
+C:\Users\admin\source\repos\estzhidnevnic\estzhidnevnic\bin\Debug\net6.0\estzhidnevnic.dll
+C:\Users\admin\source\repos\estzhidnevnic\estzhidnevnic\bin\Debug\net6.0\estzhidnevnic.pdb
+C:\Users\admin\source\repos\estzhidnevnic\estzhidnevnic\obj\Debug\net6.0\estzhidnevnic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\estzhidnevnic\estzhidnevnic\obj\Debug\net6.0\estzhidnevnic.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\estzhidnevnic\estzhidnevnic\obj\Debug\net6.0\estzhidnevnic.AssemblyInfo.cs
+C:\Users\admin\source\repos\estzhidnevnic\estzhidnevnic\obj\Debug\net6.0\estzhidnevnic.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\estzhidnevnic\estzhidnevnic\obj\Debug\net6.0\estzhidnevnic.dll
+C:\Users\admin\source\repos\estzhidnevnic\estzhidnevnic\obj\Debug\net6.0\refint\estzhidnevnic.dll
+C:\Users\admin\source\repos\estzhidnevnic\estzhidnevnic\obj\Debug\net6.0\estzhidnevnic.pdb
+C:\Users\admin\source\repos\estzhidnevnic\estzhidnevnic\obj\Debug\net6.0\estzhidnevnic.genruntimeconfig.cache
+C:\Users\admin\source\repos\estzhidnevnic\estzhidnevnic\obj\Debug\net6.0\ref\estzhidnevnic.dll
